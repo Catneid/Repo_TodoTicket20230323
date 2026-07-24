@@ -1,3 +1,4 @@
+.env:
 DB_URI="mongodb://localhost:27017/Voletera_DB"
 JWT_Secret_Key="llavesecreta"
 USER_EMAIL="catneido@gmail.com"
@@ -7,3 +8,6 @@ GRANT_TYPE="client_credentials"
 AUDIENCE="wompi_api"
 CLIENT_ID="8e3533ad_0ccb_4576_9dca_3d17720c5c65"
 CLIENT_SECRET="a16c5e7d-d796-4eaa-86a8-e20aee0-e20aee08fc2c"
+
+render link:
+https://repo-todoticket20230323.onrender.com
